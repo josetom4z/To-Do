@@ -1,3 +1,0 @@
-atlas db
-login: admin-tomaz
-senha: watts@mate9QN
